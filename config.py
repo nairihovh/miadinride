@@ -1,0 +1,4 @@
+API_TOKEN = "7493055833:AAEwagPe8SdcVk1q5mJfCwVwXLRDTiXZNR0"
+ADMIN_ID = 829710576
+CHANNEL_ID = "@miasinride"
+BOT_USERNAME = "miasinridebot"
